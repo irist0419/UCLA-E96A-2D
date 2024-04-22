@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: ocean
+    uniqueID: 1656652013
+    locked: 0
   - name: Ground
     uniqueID: 2307911807
     locked: 0
@@ -49,6 +52,9 @@ TagManager:
     locked: 0
   - name: trees(front)
     uniqueID: 3041754687
+    locked: 0
+  - name: NPC
+    uniqueID: 494263143
     locked: 0
   - name: player
     uniqueID: 3601812267
